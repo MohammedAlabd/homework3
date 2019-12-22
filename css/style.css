@@ -187,9 +187,9 @@ div.third ul{
     div.third ul li  p{
         color: #70818f;
     }
-    div.fourth img{
+    div.fifth img{
         float: left;
-        width: 33%;
+        width: 33.3333%;
         display: list-item;
         padding: 0;
         margin: 0;
